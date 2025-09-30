@@ -1,0 +1,1 @@
+CREATE ALIAS IF NOT EXISTS UNACCENT FOR "com.example.criteria_project.filter.H2Functions.removeAccents";
